@@ -1,11 +1,8 @@
 # 🌐 React Firebase Authentication
-**[Login Page]: **[Login Page](https://drive.google.com/file/d/1PYxkDMdpXhD80CW8Mp2fVNpU18A2BcAl/view?usp=sharing)
 
+**🔗 Live Demo:** [https://comforting-jelly-fc80ee.netlify.app/login](https://comforting-jelly-fc80ee.netlify.app/login)
 
-**Live Demo:** [https://comforting-jelly-fc80ee.netlify.app/login](https://glittery-sable-8984a3.netlify.app/login)  
-
-
-A simple and responsive login page built with **React** and **Firebase Authentication**, deployed on **Netlify**.
+A simple and responsive login page built with **React.js** and **Firebase Authentication**, deployed on **Netlify**.
 
 ---
 
@@ -13,23 +10,31 @@ A simple and responsive login page built with **React** and **Firebase Authentic
 
 - 🔐 Login with Email & Password  
 - 🔄 Password Reset via Email  
-- 📡 Firebase Authentication Integration  
-- 🔄 Real-time Authentication State Monitoring  
-- 📱 Fully Responsive Design
+- 🔓 Logout functionality  
+- 👀 Real-time Authentication State Monitoring  
+- 📱 Fully Responsive UI  
+- 🚫 Private Route Protection using React Router
 
 ---
 
 ## 🚀 Tech Stack
 
-- **Frontend:** React, React Router  
+- **Frontend:** React.js, React Router  
 - **Authentication:** Firebase v9  
-- **Deployment:** Netlify
+- **Deployment:** Netlify  
+- **State Management:** React Context API
 
 ---
 
-## 🖼️ Screenshots
+## 🖼️ Screenshot
 
-> *(You can add screenshots by uploading images to your repo and linking here like below)*
+![Login Page](https://drive.google.com/uc?export=view&id=1PYxkDMdpXhD80CW8Mp2fVNpU18A2BcAl)
 
-```md
+---
 
+## 🔧 Installation & Setup
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git
+   cd your-repo-name
