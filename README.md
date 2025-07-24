@@ -1,6 +1,6 @@
 # 🌐 React Firebase Authentication
 
-**Live Demo:** [https://comforting-jelly-fc80ee.netlify.app/login](https://comforting-jelly-fc80ee.netlify.app/login)
+**Live Demo:** [https://comforting-jelly-fc80ee.netlify.app/login](https://superb-muffin-1c37c7.netlify.app/login)
 
 A simple and responsive login page built with **React** and **Firebase Authentication**, deployed on **Netlify**.
 
